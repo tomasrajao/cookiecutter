@@ -1,4 +1,4 @@
-django
+Django
 requests
 gunicorn
 python-decouple
