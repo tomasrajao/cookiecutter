@@ -1,3 +1,4 @@
+{% raw %}
 name: CI
 
 on:
@@ -46,3 +47,4 @@ jobs:
         uses: codecov/codecov-action@v1
         with:
           token: ${{ secrets.CODECOV_TOKEN }}
+{%- endraw %}
