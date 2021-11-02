@@ -1,4 +1,5 @@
 Django
+pip-tools
 requests
 gunicorn
 python-decouple
@@ -7,6 +8,7 @@ django-s3-folder-storage
 Collectfast
 django-debug-toolbar
 sentry-sdk
+psycopg2-binary
 django-ordered-model
 ipython
 django-extensions
